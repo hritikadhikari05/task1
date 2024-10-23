@@ -1,0 +1,630 @@
+
+{
+  "type": "CONTAINER",
+  "styles": {
+    "backgroundColor": "#ecece6",
+    "padding": 16
+    
+  },
+  "children": [
+    {
+      "type": "TEXT",
+      "data": "Select Charger",
+      "styles": {
+        "fontStyle": {
+          "size": "24",
+          "weight": "w500",
+          "color": "#8a8989"
+        },
+        "marginBottom": 16
+      }
+    },
+    {
+      "type": "CONTAINER",
+      "styles": {
+        
+        "padding": 16,
+        "border": {
+          "color": "#bed1cd",
+          "width": 1,
+          "borderRadius": 8
+        }
+      },
+      "children": [
+        {
+          "type": "COLUMN",
+          "styles": {
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "start"
+          },
+          "children": [
+            {
+              "type": "ROW",
+              "data": "null",
+              "styles": {
+                "fontStyle": null,
+                "mainAxisAlignment": "start",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ICON",
+                  "data": "https://cdn.nexdigitalstudio.com/ev/images/charging-devices-icon.svg",
+                  "styles": {
+                    "height": 24,
+                    "width": 24
+                  }
+    
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "Device 1",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w500",
+                      "color": "#333333"
+                    },
+                    "marginBottom": 0
+                  }
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "(6 Charging Type)",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "12",
+                      "weight": "w500",
+                      "color": "#8a8989"
+                    },
+                    "marginBottom": 0
+                  }
+                }
+              ]
+            },
+            {
+              "type": "SIZEDBOX",
+              "data": null,
+              "styles": {
+                "height": 20
+                
+              }
+            },
+            {
+              "type": "ROW",
+              "styles": {
+                "mainAxisAlignment": "spaceBetween",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ROW",
+                  "data": "null",
+                  "styles": {
+                    "fontStyle": null,
+                    "mainAxisAlignment": "start",
+                    "crossAxisAlignment": "center"
+                  },
+                  "children": [
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/power-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "7kW",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 20
+                      }
+                    },
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/price-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "$32.00/kWh",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    }
+                  ]
+                } 
+                ,
+                
+                {
+                  "type": "BUTTON",
+                  "data": "Choose",
+                  "styles": {
+                    "backgroundColor": "#003D62",
+                    "border": {
+                      "borderRadius": 8,
+                      "borderWidth": 1
+                      
+                    },
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w400",
+                      "color": "#FFFFFF"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+        
+      ]
+    },
+    {
+      "type": "SIZEDBOX",
+      "data": null,
+      "styles": {
+        "height": 20,
+        "width": 0
+      }
+    },
+    {
+      "type": "CONTAINER",
+      "styles": {
+        
+        "padding": 16,
+        "border": {
+          "color": "#bed1cd",
+          "width": 1,
+          "borderRadius": 8
+        }
+      },
+      "children": [
+        {
+          "type": "COLUMN",
+          "styles": {
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "start"
+          },
+          "children": [
+            {
+              "type": "ROW",
+              "data": "null",
+              "styles": {
+                "fontStyle": null,
+                "mainAxisAlignment": "start",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ICON",
+                  "data": "https://cdn.nexdigitalstudio.com/ev/images/charging-devices-icon.svg",
+                  "styles": {
+                    "height": 24,
+                    "width": 24
+                  }
+    
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "Hybrid Charger 2",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w500",
+                      "color": "#333333"
+                    },
+                    "marginBottom": 0
+                  }
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "(6 Charging Type)",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "12",
+                      "weight": "w500",
+                      "color": "#8a8989"
+                    },
+                    "marginBottom": 0
+                  }
+                }
+              ]
+            },
+            {
+              "type": "SIZEDBOX",
+              "data": null,
+              "styles": {
+                "height": 20
+                
+              }
+            },
+            {
+              "type": "ROW",
+              "styles": {
+                "mainAxisAlignment": "spaceBetween",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ROW",
+                  "data": "null",
+                  "styles": {
+                    "fontStyle": null,
+                    "mainAxisAlignment": "start",
+                    "crossAxisAlignment": "center"
+                  },
+                  "children": [
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/power-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "23kW",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 20
+                      }
+                    },
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/price-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "$32.00/kWh",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    }
+                  ]
+                } 
+                ,
+                
+                {
+                  "type": "BUTTON",
+                  "data": "Choose",
+                  "styles": {
+                    "backgroundColor": "#003D62",
+                    "border": {
+                      "borderRadius": 8,
+                      "borderWidth": 1
+                      
+                    },
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w400",
+                      "color": "#FFFFFF"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+        
+      ]
+    },
+    {
+      "type": "SIZEDBOX",
+      "data": null,
+      "styles": {
+        "height": 20,
+        "width": 0
+      }
+    },
+    {
+      "type": "CONTAINER",
+      "styles": {
+        
+        "padding": 16,
+        "border": {
+          "color": "#bed1cd",
+          "width": 1,
+          "borderRadius": 8
+        }
+      },
+      "children": [
+        {
+          "type": "COLUMN",
+          "styles": {
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "start"
+          },
+          "children": [
+            {
+              "type": "ROW",
+              "data": "null",
+              "styles": {
+                "fontStyle": null,
+                "mainAxisAlignment": "start",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ICON",
+                  "data": "https://cdn.nexdigitalstudio.com/ev/images/charging-devices-icon.svg",
+                  "styles": {
+                    "height": 24,
+                    "width": 24
+                  }
+    
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "Hybrid Charger 3",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w500",
+                      "color": "#333333"
+                    },
+                    "marginBottom": 0
+                  }
+                },
+                {
+                  "type": "SIZEDBOX",
+                  "data": null,
+                  "styles": {
+                    "height": 0,
+                    "width": 10
+                  }
+                },
+                {
+                  "type": "TEXT",
+                  "data": "(6 Charging Type)",
+                  "styles": {
+                    "fontStyle": {
+                      "size": "12",
+                      "weight": "w500",
+                      "color": "#8a8989"
+                    },
+                    "marginBottom": 0
+                  }
+                }
+              ]
+            },
+            {
+              "type": "SIZEDBOX",
+              "data": null,
+              "styles": {
+                "height": 20
+                
+              }
+            },
+            {
+              "type": "ROW",
+              "styles": {
+                "mainAxisAlignment": "spaceBetween",
+                "crossAxisAlignment": "center"
+              },
+              "children": [
+                {
+                  "type": "ROW",
+                  "data": "null",
+                  "styles": {
+                    "fontStyle": null,
+                    "mainAxisAlignment": "start",
+                    "crossAxisAlignment": "center"
+                  },
+                  "children": [
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/power-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "7kW",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 20
+                      }
+                    },
+                    {
+                      "type": "ICON",
+                      "data": "https://cdn.nexdigitalstudio.com/ev/images/price-icon.svg",
+                      "styles": {
+                        "height": 24,
+                        "width": 24
+                      }
+        
+                    },
+                    {
+                      "type": "SIZEDBOX",
+                      "data": null,
+                      "styles": {
+                        "height": 0,
+                        "width": 8
+                      }
+                    },
+                    {
+                      "type": "TEXT",
+                      "data": "$32.00/kWh",
+                      "styles": {
+                        "fontStyle": {
+                          "size": "16",
+                          "weight": "w500",
+                          "color": "#003D62"
+                        },
+                        "marginBottom": 0
+                      }
+                    }
+                  ]
+                } 
+                ,
+                
+                {
+                  "type": "BUTTON",
+                  "data": "Choose",
+                  "styles": {
+                    "backgroundColor": "#003D62",
+                    "border": {
+                      "borderRadius": 8,
+                      "borderWidth": 1
+                      
+                    },
+                    "fontStyle": {
+                      "size": "20",
+                      "weight": "w400",
+                      "color": "#FFFFFF"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+        
+      ]
+    }
+  ]
+}
